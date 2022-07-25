@@ -1,4 +1,4 @@
-# Gopher-Hunting
+# Gopher-Hunt
 •	An Android game developed using Java and Android Studio, where two bots compete against each other to locate a gopher within a 10 x 10 grid, with a grid UI to display the real-time game status</br> 
 •	The two bots leverage multithreading and run in parallel to compute the best strategy to win the game</br>
 •	Contains an efficient algorithm to perform a smart guess based on feedback from the main thread, by generating a vicinity grid within which the next smart guess would be made.</br></br>
