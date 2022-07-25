@@ -11,7 +11,7 @@ Requirements:
 
 
 Instructions:
-1. Unzip the contents of the file "Gopher_Hunting".
+1. Download and unzip the contents of the file "Gopher_Hunting.zip".
 2. Import Project or Open in Android Studio.
 3. Run using the inbuilt Android Emulator device of your choice. Alternatively, connect your mobile device to your laptop/PC using a USB and install the application on your mobile device (Note: Make sure that "USB Debugging" is enabled under "Developer Options" on your mobile device).
 
