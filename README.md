@@ -7,12 +7,12 @@
 Requirements:
 1. Android Studio
 2. Java
-3. Minimum SDK verison of API 21: Android 5.0 (Lollipop)</br></br>
+3. Minimum SDK verison API 21: Android 5.0 (Lollipop)</br></br>
 
 
 Instructions:
 1. Import Project or Open in Android Studio.
-2. Run using the inbuilt Android Emulator of your choice. Alternatively, connect your mobile device to your laptop/PC using a USB and install the application on your mobile device (Note: Make sure that "USB Debugging" is enabled under "Developer Options" on your mobile device)
+2. Run using the inbuilt Android Emulator device of your choice. Alternatively, connect your mobile device to your laptop/PC using a USB and install the application on your mobile device (Note: Make sure that "USB Debugging" is enabled under "Developer Options" on your mobile device).
 
 
 
